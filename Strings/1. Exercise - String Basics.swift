@@ -24,5 +24,5 @@ if emptyString.isEmpty{
     print("There's nothing here")
 } else {
     print("It's not as empty as I thought")
-}
+} 
 
