@@ -10,3 +10,4 @@ print(friends)
 //: friends = 200
 //:  Does the above code compile? Why not? Print your explanation to the console using the `print` function. Go back and delete your line of code that updates the `friends` constant to a lower number so that the playground will compile properly.
 print("No, the above code doesn't compile; because let keyword defines a constant and constants cannot be updated. Instead of using let using var maybe a better choice; because var keyword defines variables and variables can be updated")
+ 
